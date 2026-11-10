@@ -2,7 +2,7 @@
     name: "flood-mod"
     displayName: "Flood Mod"
     author: "Flood logic by Makise (map 'flood 55'), ported to a mod"
-    version: "1.4"
+    version: "1.4.0"
     minGameVersion: "146"
     // this version has buildable blocks (Flood Seeds), so it is not a script-only mod:
     // players joining a server that runs it need it too
