@@ -1,46 +1,48 @@
-# Flood Mod
+🌊 MINDUSTRY FLOOD
 
-A Mindustry mod that brings the spreading flood logic from the map "flood 55" to other maps.
+The infection is spreading. Can your defenses survive?
 
-## Features
+Welcome to Mindustry Flood, a custom mod that brings spreading infection mechanics, destructive blocks, team-based interactions, and unique defensive systems to the battlefield.
 
-- Red, blue, green, and purple flood teams
-- Multiple spreading tiers and buildable Flood Seed blocks
-- Force Projectors can hold back the flood
-- Core-protection rules
-- Damage effects around opposing flood blocks
-- In-game settings and `/flood` chat commands
+⚔️ FEATURES
 
-## Installation
+🔴 Spreading Infection
+Infection expands across the battlefield and threatens nearby structures.
 
-1. Download the ZIP from the repository.
-2. In Mindustry, open **Settings → Mods → Import Mod** (wording may vary by platform/version), or place the ZIP in the game's mods folder.
-3. Restart or reload mods if requested.
+🔵 Multiple Infection Teams
+Different infection colors bring unique team interactions.
 
-## Commands
+🟡 Team Protection
+Yellow team has special protection against infection.
 
-The mod's script documents these commands:
+🛡️ Defensive Shields
+Defensive blocks help stop the spread.
 
-- `/flood stats`
-- `/flood seed`
-- `/flood team`
-- `/flood corewar`
-- `/flood on`
-- `/flood off`
+📡 Radar Defense
+A defensive radar system adds another layer of protection.
 
-See the in-game **Flood** settings for configurable options.
+💥 Destructive Mechanics
+Watch the battlefield change as infection spreads and structures fall.
 
-## Compatibility
+🎨 Custom Sprites
+Unique visuals and custom block designs.
 
-The current `mod.hjson` declares `minGameVersion: "146"`. Check that your Mindustry build meets this requirement.
+🧬 THE BATTLEFIELD
 
-## Credits
+Every structure matters. Every defense counts. The infection keeps spreading, and the battlefield will never stay the same.
 
-The metadata currently credits Makise for the original flood logic from the map "flood 55", ported to a mod. Please retain the original attribution when redistributing.
+📌 PROJECT INFORMATION
 
-## Source layout
+- Project: Mindustry Flood
+- Version: v1.0.0
+- Game: Mindustry
+- Status: Initial release
+- Developer: kandasamyangelo66-lgtm
 
-- `mod.hjson` — mod metadata
-- `scripts/main.js` — flood behavior
-- `content/blocks/` — Flood Seed block definitions
-- `sprites/` — mod graphics
+🌟 SUPPORT THE PROJECT
+
+Found something interesting? Star the repository and follow the project's development!
+
+---
+
+The flood has begun. 🌊
