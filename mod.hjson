@@ -1,0 +1,11 @@
+{
+    name: "flood-mod"
+    displayName: "Flood Mod"
+    author: "Flood logic by Makise (map 'flood 55'), ported to a mod"
+    version: "1.4"
+    minGameVersion: "146"
+    // this version has buildable blocks (Flood Seeds), so it is not a script-only mod:
+    // players joining a server that runs it need it too
+    hidden: false
+    description: "Makes the flood from the map 'flood 55' work on any map, for the red, blue, green and purple teams. Flood blocks: conveyor, titanium conveyor, scrap wall (the map's three tiers, same growth rules, speed scaling, damage and caps) plus a stronger, slower thorium wall tier. The vanilla Force Projector holds the flood back: weak flood cannot enter, strong flood creeps in slowly, flood pressure and exploding crawlers break it, then the flood pours in. Cores are never overwritten and flood blasts never reach the yellow core. Flyers over flood and ground machines next to it take damage. Blocks (Effects menu): Flood Seed and Flood Seed Thorium in red, blue, green, purple. Chat: /flood stats | seed | team | corewar | on | off. Settings: Flood."
+}
