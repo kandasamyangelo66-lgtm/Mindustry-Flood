@@ -1,0 +1,13 @@
+{
+    "type": "Wall"
+    "localizedName": "Flood Seed Thorium (Red)"
+    "description": "Build it to start a STRONG RED flood on this spot: it turns into a thorium wall of that team (blasts for 700, pushes through Force Projectors faster). It pioneers with scrap walls and spreads slowly."
+    "health": 120
+    "size": 1
+    "category": "effect"
+    "alwaysUnlocked": true
+    "requirements": [
+        "copper/10"
+        "titanium/5"
+    ]
+}

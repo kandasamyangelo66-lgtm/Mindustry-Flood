@@ -1,0 +1,12 @@
+{
+    "type": "Wall"
+    "localizedName": "Flood Seed (Blue)"
+    "description": "Build it to start a BLUE flood on this spot. When construction finishes it turns into blue flood and spreads by itself."
+    "health": 80
+    "size": 1
+    "category": "effect"
+    "alwaysUnlocked": true
+    "requirements": [
+        "copper/5"
+    ]
+}
